@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Jee-K
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Jee-K/MOHO_dev
+  - Jee-K/Auto_Drill
+  - Jee-K/Excavator_BC_RL

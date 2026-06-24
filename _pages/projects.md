@@ -5,9 +5,18 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [current, previous]
 horizontal: false
 ---
+
+<style>
+  h2.category {
+    font-weight: 700 !important;
+    color: #000 !important;
+    text-align: left !important;
+    border-bottom-color: #000 !important;
+  }
+</style>
 
 <!-- pages/projects.md -->
 <div class="projects">
