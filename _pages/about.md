@@ -43,7 +43,7 @@ Currently a PhD student in UT Austin Construction Engineering and Project Manage
 - Developed a layout converter software for robotic layout printing solutions
 
 <span style="font-weight: 800;">MOHO Co.</span> — Republic of Korea
-*Research Engineer* \| Jun 2024 – Current
+*Research Engineer* \| Jun 2024 – Aug 2024
 - R&D for digital transformation of defect inspection/prediction of ceramic dishware products
 
 <span style="font-weight: 800;">ITHETTO Co.</span> — Republic of Korea
