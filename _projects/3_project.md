@@ -7,4 +7,4 @@ importance: 3
 category: current
 ---
 
-Developing a layout printing robot. Connecting BIM/blueprints to the site.
+Developing a field robot. More to come soon...
