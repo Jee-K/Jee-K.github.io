@@ -6,7 +6,7 @@ subtitle: Austin, TX. jeehoon@utexas.edu
 
 profile:
   align: right
-  image: 1750974166586.jpg
+  image: headshot.jpg
   image_circular: true # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
@@ -33,7 +33,8 @@ latest_posts:
   <span>This page is under construction — more content coming soon.</span>
 </div>
 
-Currently a PhD student in UT Austin Construction Engineering and Project Management (CEPM). My research interests are Field Robotics; Construction Robotics; Perception; Point Cloud Processing; Industrialized Construction; Control and Planning.
+Currently a PhD student in UT Austin Construction Engineering and Project Management (CEPM). My research interests are Field Robotics; Construction Robotics; Perception; Point Cloud Processing; Industrialized Construction; Control and Planning. 
+My doctoral research is generously supported by Amazon through the 2026 - 2027 Amazon AI PhD Fellowship at the UT Austin Amazon Science Hub.
 
 ## Work Experience
 
