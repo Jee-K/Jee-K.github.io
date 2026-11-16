@@ -22,7 +22,7 @@ related_publications: true
   <div class="col-md-5 mt-3 mt-md-0">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/indoor.png"
+      path="assets/img/6_data_example.png"
       class="img-fluid rounded z-depth-1"
       zoomable=true
       alt="Backpack-mounted indoor 3D scanning system"
