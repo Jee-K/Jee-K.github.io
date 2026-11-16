@@ -3,8 +3,8 @@ layout: page
 title: "Custom End-Effector for Robotic Deconstruction"
 description: Custom End-Effector for Robotic Deconstruction
 img: assets/img/autodrill.png
-importance: 4
-category: current
+importance: 5
+category: previous
 ---
 
 Development of a deconstruction-specific robotic end-effector (Autodrill) designed component disconnection in end-of-life building deconstruction.

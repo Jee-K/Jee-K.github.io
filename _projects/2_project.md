@@ -3,7 +3,7 @@ layout: page
 title: Heavy Machine Automation
 description: Autonomous Control of Excavators
 img: assets/img/excavator.png
-importance: 2
+importance: 3
 category: current
 ---
 

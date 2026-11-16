@@ -33,7 +33,7 @@ latest_posts:
   <span>This page is under construction — more content coming soon.</span>
 </div>
 
-Currently a PhD student in UT Austin Construction Engineering and Project Management (CEPM). My research interests are Field Robotics; Construction Robotics; Perception; Point Cloud Processing; Industrialized Construction; Control and Planning. 
+Currently a PhD student in UT Austin Construction Engineering and Project Management (CEPM) and pursuing the robotics graduate certificate program in Texas Robotics. My research interests are Field Robotics; Construction Robotics; Perception; Point Cloud Processing; Industrialized Construction; Control and Planning. Specific research topics I am currently working on include BIM-based Task and Motion Planning for mobile manipulators in construction sites; VLM-guided task-oriented dexterous tooling; RL-policy training for autonomous excavators using video reconstruction data.
 
 My doctoral research is generously supported by Amazon through the 2026 - 2027 Amazon AI PhD Fellowship at the UT Austin Amazon Science Hub.
 
@@ -51,6 +51,7 @@ My doctoral research is generously supported by Amazon through the 2026 - 2027 A
 <span style="font-weight: 800;">ITHETTO Co.</span> — Republic of Korea
 *Research Engineer* \| Mar 2023 – Dec 2023
 - Developed a backpack-shaped mobile scanning device for indoor construction sites
+- Developed a DGR-based map registration algorithm for accurate mapping of indoor construction sites.
 - Developed a structural inspection algorithm
 
 ## Research Experience

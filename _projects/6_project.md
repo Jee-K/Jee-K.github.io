@@ -8,6 +8,26 @@ category: previous
 related_publications: true
 ---
 
-Development of a low-cost backpack-mounted mobile scanning system for indoor construction sites, enabling accessible 3D data capture and automated structural defect inspection.
+<div class="row align-items-center">
+  <div class="col-md-7">
+    <p>
+      Development of a low-cost backpack-mounted mobile scanning system for
+      indoor construction sites, enabling accessible 3D data capture and
+      automated structural defect inspection.
+    </p>
+
+    {% cite kim2024isarc kim2025defect %}
+  </div>
+
+  <div class="col-md-5 mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/indoor.png"
+      class="img-fluid rounded z-depth-1"
+      zoomable=true
+      alt="Backpack-mounted indoor 3D scanning system"
+    %}
+  </div>
+</div>
 
 {% cite kim2024isarc kim2025defect %}
